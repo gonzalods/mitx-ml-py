@@ -1,0 +1,11 @@
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.ipython/
+.jupyter/
+.local/
+.profile
+.python_history
+.wget-hsts
+.gitconfig

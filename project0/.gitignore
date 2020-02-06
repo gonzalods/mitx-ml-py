@@ -1,0 +1,6 @@
+*’.bak’
+.empty/
+.ipynb_checkpoints/
+__pycache__/
+debug.py’.bak’
+
