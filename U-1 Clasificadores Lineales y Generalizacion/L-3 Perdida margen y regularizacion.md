@@ -121,7 +121,7 @@ $$\max \frac{1}{\Vert \theta \Vert} = \min \Vert \theta \Vert=\min \frac{1}{2}\V
 
 Se puede regularizar la solución intentando **penalizar los valores grandes** de la norma al cuadrado del vetor $\theta$.
 
-La **función objetivo**, $J$, que guira la selección del vector de parametros $\theta$ y de $\theta_0$ tiene dos partes:
+La **función objetivo**, $J$, que guiara la selección del vector de parametros $\theta$ y de $\theta_0$ tiene dos partes:
 
 $$\boxed{J(\theta, \theta_0) = \frac{1}{n} \sum_{i=1}^nLoss_h \Big(y^{(i)}\big(\theta x^{(i)}+\theta_0\big)\Big) + \frac{\lambda}{2}\Vert \theta \Vert^2}$$
 
